@@ -17,7 +17,7 @@ public class TestGiit {
     public static void main(String[] args)
     {
     System.out.println("learning Github") ;  
-      
+       System.out.println("clone") ;  
     }
     
 }
